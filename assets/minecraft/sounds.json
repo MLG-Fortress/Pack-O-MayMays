@@ -1,0 +1,1355 @@
+{
+  "fortress.lvlup": {
+    "category": "player",
+    "sounds": [
+      "fortress/lvlup/heart_canister",
+      "fortress/lvlup/heart_canister2"
+    ]
+  },
+  "fortress.lowhealth": {
+    "category": "player",
+    "sounds": [
+      "fortress/criticalhealth"
+    ]
+  },
+  "fortress.lowhealthgasp": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "fortress/gasp",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.shieldbroken": {
+    "category": "player",
+    "sounds": [
+      "fortress/shieldbroken"
+    ]
+  },
+  "fortress.shieldbootingup": {
+    "category": "player",
+    "sounds": [
+      "fortress/shieldbootingup"
+    ]
+  },
+  "fortress.shieldoffline": {
+    "category": "player",
+    "sounds": [
+      "fortress/shieldoffline"
+    ]
+  },
+  "fortress.shieldrecharged": {
+    "sounds": [
+      "fortress/shieldrecharged"
+    ]
+  },
+  "fortress.fusrodah": {
+    "sounds": [
+      "fortress/fusrodah"
+    ]
+  },
+  "fortress.death": {
+    "category": "player",
+    "sounds": [
+	  {
+        "name": "death/self/selfdeath",
+        "stream": true
+      },
+	  {
+        "name": "death/self/selfdeath2",
+        "stream": true
+      },
+	  {
+        "name": "death/self/selfdeath3",
+        "stream": true
+      },
+	  {
+        "name": "death/self/selfdeath4",
+        "stream": true
+      },
+	  {
+        "name": "death/self/selfdeath5",
+        "stream": true
+      },
+	  {
+        "name": "death/self/selfdeath6",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.transporter": {
+    "category": "player",
+    "sounds": [
+      "fortress/transporter2",
+      "fortress/transporter3",
+      "fortress/transporter4"
+    ]
+  },
+  "fortress.transporter_long": {
+    "category": "player",
+    "sounds": [
+	  {
+        "name": "fortress/transporter_long2",
+        "stream": true
+      },
+	  {
+        "name": "fortress/transporter_long3",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.portal.open": {
+    "sounds": [
+      "fortress/portal/portal_open1",
+      "fortress/portal/portal_open2",
+      "fortress/portal/portal_open3"
+    ]
+  },
+  "fortress.portal.enter": {
+    "sounds": [
+      "fortress/portal/portal_enter1",
+      "fortress/portal/portal_enter2"
+    ]
+  },
+  "fortress.portal.exit": {
+    "sounds": [
+      "fortress/portal/portal_exit1",
+      "fortress/portal/portal_exit2"
+    ]
+  },
+  "fortress.portal.invalid": {
+    "sounds": [
+      "fortress/portal/portal_invalid_surface",
+      "fortress/portal/portal_invalid_surface3"
+    ]
+  },
+  "fortress.portal.blue": {
+    "sounds": [
+      "fortress/portal/portalgun_shoot_blue1"
+    ]
+  },
+  "fortress.portal.orange": {
+    "sounds": [
+      "fortress/portal/portalgun_shoot_red1"
+    ]
+  },
+  "fortress.transporter_finish": {
+    "sounds": [
+      "fortress/transporter_finish"
+    ]
+  },
+  "fortress.elimination": {
+    "category": "player",
+    "sounds": [
+	  "fortress/elimination"
+    ]
+  },
+  "fortress.healthheart": {
+    "category": "player",
+    "sounds": [
+	  "fortress/healthheart"
+    ]
+  },
+  "fortress.longfallboots": {
+    "category": "player",
+    "sounds": [
+      "fortress/longfall_land_01",
+      "fortress/longfall_land_02",
+      "fortress/longfall_land_03"
+    ]
+  },
+  "fortress.falldamage": {
+    "sounds": [
+      "fortress/fallbig"
+    ]
+  },
+  "entity.player.big_fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/fallsmall",
+        "volume": 8.0
+      }
+    ]
+  },
+  "fortress.roblox": {
+    "sounds": [
+      "fortress/robloxdeathsoundmono"
+    ]
+  },
+  "fortress.classic_hurt": {
+    "sounds": [
+      "random/classic_hurt"
+    ]
+  },
+  "fortress.shieldhitself": {
+    "sounds": [
+      "fortress/shieldhitself"
+    ]
+  },
+  "fortress.lowshieldhitself": {
+    "sounds": [
+      "fortress/lowshieldhitself"
+    ]
+  },
+  "entity.player.hurt": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "music.game": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.11": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.13": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.blocks": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.cat": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.chirp": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.far": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.mall": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.mellohi": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.stal": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.strad": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.wait": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "record.ward": {
+    "replace": true,
+    "sounds": [
+      "blank"
+    ]
+  },
+  "music.spawn.kahoot": {
+    "sounds": [
+	  {
+        "name": "music/spawn/kahoot",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.animallobby": {
+    "sounds": [
+	  {
+        "name": "music/mall/animallobby",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.elevatorjam": {
+    "sounds": [
+	  {
+        "name": "music/mall/elevatorjam",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.hhstar": {
+    "sounds": [
+	  {
+        "name": "music/mall/hhstar",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.killingmiisoftly": {
+    "sounds": [
+	  {
+        "name": "music/mall/killingmiisoftly",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.litdog": {
+    "sounds": [
+	  {
+        "name": "music/mall/litdog",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.miifavoritethings": {
+    "sounds": [
+	  {
+        "name": "music/mall/miifavoritethings",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.nyanjazz": {
+    "sounds": [
+	  {
+        "name": "music/mall/nyanjazz",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.intro.skrillevator": {
+    "sounds": [
+	  {
+        "name": "music/mall/skrillevator",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.intro.beattakeshi": {
+    "sounds": [
+	  {
+        "name": "music/mall/beattakeshi",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.intro.combonumber5": {
+    "sounds": [
+	  {
+        "name": "music/mall/combonumber5",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.intro.hardwaresupersonicspeed": {
+    "sounds": [
+	  {
+        "name": "music/mall/hardwaresupersonicspeed",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.intro.sale": {
+    "sounds": [
+	  {
+        "name": "music/mall/sale",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.wiibopchannel": {
+    "sounds": [
+	  {
+        "name": "music/mall/wiibopchannel",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.rare1976": {
+    "sounds": [
+	  {
+        "name": "music/mall/rare1976",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.intro.alliwannado": {
+    "sounds": [
+	  {
+        "name": "music/mall/alliwannado",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.intro.doinitwell": {
+    "sounds": [
+	  {
+        "name": "music/mall/doinitwell",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.smokeoddity": {
+    "sounds": [
+	  {
+        "name": "music/mall/smokeoddity",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.krabbypower": {
+    "sounds": [
+	  {
+        "name": "music/mall/krabbypower",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.noodlescantbebeat": {
+    "sounds": [
+	  {
+        "name": "music/mall/noodlescantbebeat",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.startrekpausecafe": {
+    "sounds": [
+	  {
+        "name": "music/mall/startrekpausecafe",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.steamedhamsbutallstar": {
+    "sounds": [
+	  {
+        "name": "music/mall/steamedhamsbutallstar",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.house": {
+    "sounds": [
+	  {
+        "name": "music/prison/house",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.road": {
+    "sounds": [
+	  {
+        "name": "music/prison/road",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.fireflies": {
+    "sounds": [
+	  {
+        "name": "music/prison/fireflies",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.tragic": {
+    "sounds": [
+	  {
+        "name": "music/prison/tragic",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.minediamonds": {
+    "sounds": [
+	  {
+        "name": "music/prison/minediamonds",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.september": {
+    "sounds": [
+	  {
+        "name": "music/prison/september",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.oceanman": {
+    "sounds": [
+	  {
+        "name": "music/prison/oceanman",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.silverbells": {
+    "sounds": [
+	  {
+        "name": "music/prison/silverbells",
+        "stream": true
+      }
+    ]
+  },
+  "music.prison.oddity": {
+    "sounds": [
+	  {
+        "name": "music/prison/oddity",
+        "stream": true
+      }
+    ]
+  },
+  "entity.player.death": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      "death/death1",
+      "death/death2",
+      "death/death3",
+	  "death/death4",
+	  "death/death5",
+	  "death/death6",
+	  "death/death8",
+	  "death/anendingshortversion",
+	  "death/timewithdrawals",
+	  "death/bye",
+	  "death/death9",
+	  "death/death15"
+    ]
+  },
+  "entity.arrow.shoot": {
+    "replace": true,
+    "sounds": [
+      "fortress/bow"
+    ]
+  },
+  "entity.skeleton.shoot": {
+    "replace": true,
+    "sounds": [
+      "fortress/bow"
+    ]
+  },
+  "block.stone.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/concrete_run1",
+        "volume": 2.5
+      },
+      {
+        "name": "fortress/footsteps/concrete_run2",
+        "volume": 2.5
+      },
+      {
+        "name": "fortress/footsteps/concrete_run3",
+        "volume": 2.5
+      },
+      {
+        "name": "fortress/footsteps/concrete_run4",
+        "volume": 2.5
+      },
+      {
+        "name": "fortress/footsteps/concrete_run5",
+        "volume": 2.5
+      },
+      {
+        "name": "fortress/footsteps/concrete_run6",
+        "volume": 2.5
+      },
+      {
+        "name": "fortress/footsteps/concrete_run7",
+        "volume": 2.5
+      },
+      {
+        "name": "fortress/footsteps/concrete_run8",
+        "volume": 2.5
+      },
+	  {
+        "name": "fortress/footsteps/concrete_run9",
+        "volume": 2.5
+      },
+	  {
+        "name": "fortress/footsteps/concrete_run10",
+        "volume": 2.5
+      },
+	  {
+        "name": "fortress/footsteps/concrete_run11",
+        "volume": 2.5
+      }
+    ]
+  },
+  "block.stone.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.stone.place",
+        "volume": 100.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.anvil.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.anvil.land",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.anvil.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.anvil.",
+        "volume": 0.5,
+		"type": "event"
+      }
+    ]
+  },
+  "block.glass.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/glass1",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/glass2",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/glass3",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/glass4",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/glass5",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/glass6",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass7",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass8",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass9",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass10",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass11",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass12",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass13",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass14",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass15",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass16",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass17",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass18",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass19",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass20",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass21",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/glass22",
+        "volume": 1.0
+      }
+    ]
+  },
+  "block.glass.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.glass.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.metal.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/metalbox_run1",
+        "volume": 4.0
+      },
+      {
+        "name": "fortress/footsteps/metalbox_run2",
+        "volume": 4.0
+      },
+      {
+        "name": "fortress/footsteps/metalbox_run3",
+        "volume": 4.0
+      },
+      {
+        "name": "fortress/footsteps/metalbox_run4",
+        "volume": 4.0
+      },
+      {
+        "name": "fortress/footsteps/metalbox_run5",
+        "volume": 4.0
+      },
+      {
+        "name": "fortress/footsteps/metalbox_run6",
+        "volume": 4.0
+      },
+	  {
+        "name": "fortress/footsteps/metalbox_run7",
+        "volume": 4.0
+      },
+	  {
+        "name": "fortress/footsteps/metalbox_run8",
+        "volume": 4.0
+      },
+	  {
+        "name": "fortress/footsteps/metalbox_run9",
+        "volume": 4.0
+      },
+	  {
+        "name": "fortress/footsteps/metalbox_run10",
+        "volume": 4.0
+      }
+    ]
+  },
+  "block.metal.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.metal.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.cloth.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/rug_walk1",
+        "volume": 0.5
+      },
+      {
+        "name": "fortress/footsteps/rug_walk2",
+        "volume": 0.5
+      },
+      {
+        "name": "fortress/footsteps/rug_walk3",
+        "volume": 0.5
+      },
+      {
+        "name": "fortress/footsteps/rug_walk4",
+        "volume": 0.5
+      },
+	  {
+        "name": "fortress/footsteps/rug_walk5",
+        "volume": 0.5
+      },
+	  {
+        "name": "fortress/footsteps/rug_walk6",
+        "volume": 0.5
+      },
+	  {
+        "name": "fortress/footsteps/rug_walk7",
+        "volume": 0.5
+      },
+	  {
+        "name": "fortress/footsteps/rug_walk8",
+        "volume": 0.5
+      },
+	  {
+        "name": "fortress/footsteps/rug_walk9",
+        "volume": 0.5
+      },
+	  {
+        "name": "fortress/footsteps/rug_walk10",
+        "volume": 0.5
+      },
+	  {
+        "name": "fortress/footsteps/rug_walk11",
+        "volume": 0.5
+      }
+    ]
+  },
+  "block.cloth.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.cloth.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.grass.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/grass_wander1",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/grass_wander2",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/grass_wander3",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/grass_wander4",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/grass_wander5",
+        "volume": 1.0
+      }
+    ]
+  },
+  "block.grass.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.gravel.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/gravel_walk1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk4",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk5",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk6",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk7",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk8",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk9",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk10",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/footsteps/gravel_walk11",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.gravel.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.gravel.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.sand.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/sand_run1",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run2",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run3",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run4",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run5",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run6",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run7",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run8",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run9",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run10",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/sand_run11",
+        "volume": 1.0
+      }
+    ]
+  },
+  "block.sand.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.sand.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.snow.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/snow_walk1",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/snow_walk2",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/snow_walk3",
+        "volume": 1.0
+      },
+      {
+        "name": "fortress/footsteps/snow_walk4",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/snow_walk5",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/snow_walk6",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/snow_walk7",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/snow_walk8",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/snow_walk9",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/snow_walk10",
+        "volume": 1.0
+      },
+	  {
+        "name": "fortress/footsteps/snow_walk11",
+        "volume": 1.0
+      }
+    ]
+  },
+  "block.snow.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.snow.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "block.wood.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/footsteps/wood_walk1",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk2",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk3",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk4",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk5",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk6",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk7",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk8",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk9",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk10",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/wood_walk11",
+        "volume": 2.0,
+		"weight": 100
+      },
+      {
+        "name": "fortress/footsteps/squeakywood_walk1",
+        "volume": 2.0
+      },
+      {
+        "name": "fortress/footsteps/squeakywood_walk2",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk3",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk4",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk5",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk6",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk7",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk8",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk9",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk10",
+        "volume": 2.0
+      },
+	  {
+        "name": "fortress/footsteps/squeakywood_walk11",
+        "volume": 2.0
+      }
+	]
+  },
+  "block.wood.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block.wood.place",
+        "volume": 8.0,
+		"type": "event"
+      }
+    ]
+  },
+  "tts.hello1": {
+    "sounds": [
+      "voice/hello1"
+    ]
+  },
+  "tts.hello2": {
+    "sounds": [
+      "voice/hello2"
+    ]
+  },
+  "tts.hello3": {
+    "sounds": [
+      "voice/hello3"
+    ]
+  },
+  "tts.hello4": {
+    "sounds": [
+      "voice/hello4"
+    ]
+  },
+  "tts.hello5": {
+    "sounds": [
+      "voice/hello5"
+    ]
+  },
+  "tts.hello6": {
+    "sounds": [
+      "voice/hello6"
+    ]
+  },
+  "tts.haha1": {
+    "sounds": [
+      "voice/haha1"
+    ]
+  },
+  "tts.haha2": {
+    "sounds": [
+      "voice/haha2"
+    ]
+  },
+  "tts.haha3": {
+    "sounds": [
+      "voice/haha3"
+    ]
+  },
+  "tts.haha4": {
+    "sounds": [
+      "voice/haha4"
+    ]
+  },
+  "tts.haha5": {
+    "sounds": [
+      "voice/haha5"
+    ]
+  },
+  "tts.followme1": {
+    "sounds": [
+      "voice/followme1"
+    ]
+  },
+  "tts.followme2": {
+    "sounds": [
+      "voice/followme2"
+    ]
+  },
+  "tts.overhere1": {
+    "sounds": [
+      "voice/overhere1"
+    ]
+  },
+  "tts.overhere2": {
+    "sounds": [
+      "voice/overhere2"
+    ]
+  },
+  "tts.lookatme1": {
+    "sounds": [
+      "voice/lookatme1"
+    ]
+  },
+  "tts.lookatme2": {
+    "sounds": [
+      "voice/lookatme2"
+    ]
+  },
+  "tts.wano1": {
+    "sounds": [
+      "voice/wano1"
+    ]
+  },
+  "tts.wano2": {
+    "sounds": [
+      "voice/wano2"
+    ]
+  },
+  "tts.wano3": {
+    "sounds": [
+      "voice/wano3"
+    ]
+  },
+  "tts.no1": {
+    "sounds": [
+      "voice/no1"
+    ]
+  },
+  "tts.no2": {
+    "sounds": [
+      "voice/no2"
+    ]
+  },
+  "tts.no3": {
+    "sounds": [
+      "voice/no3"
+    ]
+  },
+  "tts.no4": {
+    "sounds": [
+      "voice/no4"
+    ]
+  },
+  "tts.no5": {
+    "sounds": [
+      "voice/no5"
+    ]
+  },
+  "tts.no6": {
+    "sounds": [
+      "voice/no6"
+    ]
+  },
+  "tts.no7": {
+    "sounds": [
+      "voice/no7"
+    ]
+  },
+  "tts.no8": {
+    "sounds": [
+      "voice/no8"
+    ]
+  },
+  "tts.no9": {
+    "sounds": [
+      "voice/no9"
+    ]
+  },
+  "tts.dounodawae1": {
+    "sounds": [
+      "voice/dounodawae1"
+    ]
+  },
+  "tts.bruh1": {
+    "sounds": [
+      "voice/bruh1"
+    ]
+  },
+  "tts.bruh2": {
+    "sounds": [
+      "voice/bruh2"
+    ]
+  },
+  "tts.bruh3": {
+    "sounds": [
+      "voice/bruh3"
+    ]
+  },
+  "tts.wakeup": {
+    "sounds": [
+      "voice/wakeup"
+    ]
+  },
+  "tts.thanks1": {
+    "sounds": [
+      "voice/thanks1"
+    ]
+  }
+}
