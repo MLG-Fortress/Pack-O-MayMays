@@ -75,6 +75,46 @@
 	  {
         "name": "death/self/selfdeath6",
         "stream": true
+      },
+      {
+        "name": "death/death2",
+        "stream": true
+      },
+      {
+        "name": "music/mall/bigsmokegetshurt",
+        "stream": true
+      },
+      {
+        "name": "death/self/atnightithinkof",
+        "stream": true
+      },
+      {
+        "name": "death/self/bitcrusher",
+        "stream": true
+      },
+      {
+        "name": "death/self/greendaydoesntlookbothways",
+        "stream": true
+      },
+      {
+        "name": "death/self/ivebecomesonumb",
+        "stream": true
+      },
+      {
+        "name": "death/self/nickelheavy",
+        "stream": true
+      },
+      {
+        "name": "death/self/robbiemadworld",
+        "stream": true
+      },
+      {
+        "name": "death/self/selfdeath7",
+        "stream": true
+      },
+      {
+        "name": "death/self/whenyoudieinroblox",
+        "stream": true
       }
     ]
   },
@@ -285,6 +325,22 @@
       }
     ]
   },
+  "music.spawn.wiisports": {
+    "sounds": [
+	  {
+        "name": "music/spawn/wiisports",
+        "stream": true
+      }
+    ]
+  },
+  "music.spawn.wirelessplaymenu": {
+    "sounds": [
+	  {
+        "name": "music/spawn/wirelessplaymenu",
+        "stream": true
+      }
+    ]
+  },
   "music.mall.animallobby": {
     "sounds": [
 	  {
@@ -341,42 +397,66 @@
       }
     ]
   },
-  "music.mall.intro.skrillevator": {
+  "music.mall.beautifulmiis": {
     "sounds": [
 	  {
-        "name": "music/mall/skrillevator",
+        "name": "music/mall/beautifulmiis",
         "stream": true
       }
     ]
   },
-  "music.mall.intro.beattakeshi": {
+  "music.mall.despitowiishop": {
     "sounds": [
 	  {
-        "name": "music/mall/beattakeshi",
+        "name": "music/mall/beautifulmiis",
         "stream": true
       }
     ]
   },
-  "music.mall.intro.combonumber5": {
+  "music.mall.teeosupdate": {
     "sounds": [
 	  {
-        "name": "music/mall/combonumber5",
+        "name": "music/mall/teeosupdate",
         "stream": true
       }
     ]
   },
-  "music.mall.intro.hardwaresupersonicspeed": {
+  "music.mall.whosthatdeadhomeappliance": {
     "sounds": [
 	  {
-        "name": "music/mall/hardwaresupersonicspeed",
+        "name": "music/mall/whosthatdeadhomeappliance",
         "stream": true
       }
     ]
   },
-  "music.mall.intro.sale": {
+  "music.mall.intro": {
     "sounds": [
 	  {
         "name": "music/mall/sale",
+        "stream": true
+      },
+      {
+        "name": "music/mall/hardwaresupersonicspeed",
+        "stream": true
+      },
+      {
+        "name": "music/mall/combonumber5",
+        "stream": true
+      },
+      {
+        "name": "music/mall/beattakeshi",
+        "stream": true
+      },
+      {
+        "name": "music/mall/skrillevator",
+        "stream": true
+      },
+      {
+        "name": "music/mall/alliwannado",
+        "stream": true
+      },
+      {
+        "name": "music/mall/merrybirthday",
         "stream": true
       }
     ]
@@ -393,22 +473,6 @@
     "sounds": [
 	  {
         "name": "music/mall/rare1976",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.intro.alliwannado": {
-    "sounds": [
-	  {
-        "name": "music/mall/alliwannado",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.intro.doinitwell": {
-    "sounds": [
-	  {
-        "name": "music/mall/doinitwell",
         "stream": true
       }
     ]
@@ -437,6 +501,22 @@
       }
     ]
   },
+  "music.mallfood.noodlescantbebeat2": {
+    "sounds": [
+	  {
+        "name": "music/mall/noodlescantbebeat2",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.noodlescantbebeat3": {
+    "sounds": [
+	  {
+        "name": "music/mall/noodlescantbebeat3",
+        "stream": true
+      }
+    ]
+  },
   "music.mallfood.startrekpausecafe": {
     "sounds": [
 	  {
@@ -449,6 +529,14 @@
     "sounds": [
 	  {
         "name": "music/mall/steamedhamsbutallstar",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.portacorobinson": {
+    "sounds": [
+	  {
+        "name": "music/mall/portacorobinson",
         "stream": true
       }
     ]
