@@ -621,14 +621,6 @@
       }
     ]
   },
-  "music.prison.house": {
-    "sounds": [
-	  {
-        "name": "music/prison/house",
-        "stream": true
-      }
-    ]
-  },
   "music.prison.road": {
     "sounds": [
 	  {
@@ -657,14 +649,6 @@
     "sounds": [
 	  {
         "name": "music/prison/minediamonds",
-        "stream": true
-      }
-    ]
-  },
-  "music.prison.september": {
-    "sounds": [
-	  {
-        "name": "music/prison/september",
         "stream": true
       }
     ]
