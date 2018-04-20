@@ -115,6 +115,66 @@
       {
         "name": "death/self/whenyoudieinroblox",
         "stream": true
+      },
+      {
+        "name": "death/self/aaiiuueeoo",
+        "stream": true
+      },
+      {
+        "name": "death/self/allmyaxesliveintaxes",
+        "stream": true
+      },
+      {
+        "name": "death/self/bigdumbideatheory",
+        "stream": true
+      },
+      {
+        "name": "death/self/crawlingxd",
+        "stream": true
+      },
+      {
+        "name": "death/self/greenmario",
+        "stream": true
+      },
+      {
+        "name": "death/self/improvedchickendance",
+        "stream": true
+      },
+      {
+        "name": "death/self/meetthe",
+        "stream": true
+      },
+      {
+        "name": "death/self/nyarny",
+        "stream": true
+      },
+      {
+        "name": "death/self/phoneboy",
+        "stream": true
+      },
+      {
+        "name": "death/self/theimperialcrawling",
+        "stream": true
+      },
+      {
+        "name": "death/self/vaporwavebelike",
+        "stream": true
+      },
+      {
+        "name": "death/self/victorysonic",
+        "stream": true
+      },
+      {
+        "name": "death/self/waluigisimportantmessage",
+        "stream": true
+      },
+      {
+        "name": "death/self/whathuh",
+        "stream": true
+      },
+      {
+        "name": "death/self/whatifrobbierottenwasasmashcharacter",
+        "stream": true
       }
     ]
   },
@@ -341,14 +401,6 @@
       }
     ]
   },
-  "music.mall.animallobby": {
-    "sounds": [
-	  {
-        "name": "music/mall/animallobby",
-        "stream": true
-      }
-    ]
-  },
   "music.mall.elevatorjam": {
     "sounds": [
 	  {
@@ -369,6 +421,14 @@
     "sounds": [
 	  {
         "name": "music/mall/killingmiisoftly",
+        "stream": true
+      }
+    ]
+  },
+  "music.mall.miichannel": {
+    "sounds": [
+	  {
+        "name": "music/mall/miichannel",
         "stream": true
       }
     ]
@@ -458,6 +518,10 @@
       {
         "name": "music/mall/merrybirthday",
         "stream": true
+      },
+      {
+        "name": "music/mall/animallobby",
+        "stream": true
       }
     ]
   },
@@ -481,6 +545,22 @@
     "sounds": [
 	  {
         "name": "music/mall/smokeoddity",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.brokensmokes": {
+    "sounds": [
+	  {
+        "name": "music/mall/brokensmokes",
+        "stream": true
+      }
+    ]
+  },
+  "music.mallfood.totinos": {
+    "sounds": [
+	  {
+        "name": "music/mall/totinos",
         "stream": true
       }
     ]
@@ -1295,6 +1375,11 @@
       "voice/hello6"
     ]
   },
+  "tts.hello7": {
+    "sounds": [
+      "voice/hello7"
+    ]
+  },
   "tts.haha1": {
     "sounds": [
       "voice/haha1"
@@ -1433,6 +1518,31 @@
   "tts.wakeup": {
     "sounds": [
       "voice/wakeup"
+    ]
+  },
+  "tts.quiet1": {
+    "sounds": [
+      "voice/quiet1"
+    ]
+  },
+  "tts.quiet2": {
+    "sounds": [
+      "voice/quiet2"
+    ]
+  },
+  "tts.lookatthis1": {
+    "sounds": [
+      "voice/lookatthis1"
+    ]
+  },
+  "tts.lookatthis2": {
+    "sounds": [
+      "voice/lookatthis2"
+    ]
+  },
+  "tts.lookatthis3": {
+    "sounds": [
+      "voice/lookatthis3"
     ]
   },
   "tts.thanks1": {
