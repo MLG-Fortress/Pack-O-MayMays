@@ -49,6 +49,12 @@
       "fortress/fusrodah"
     ]
   },
+  "fortress.cave": {
+    "sounds": [
+      "fortress/cave1",
+      "fortress/cave2"
+    ]
+  },
   "fortress.death": {
     "category": "player",
     "sounds": [
@@ -489,6 +495,14 @@
       }
     ]
   },
+  "music.mall.splatoonbooyahbaseshopping": {
+    "sounds": [
+	  {
+        "name": "music/mall/splatoonbooyahbaseshopping",
+        "stream": true
+      }
+    ]
+  },
   "music.mall.intro": {
     "sounds": [
 	  {
@@ -521,6 +535,14 @@
       },
       {
         "name": "music/mall/animallobby",
+        "stream": true
+      },
+      {
+        "name": "music/mall/buysomething",
+        "stream": true
+      },
+      {
+        "name": "music/mall/soldierboy",
         "stream": true
       }
     ]
@@ -621,6 +643,14 @@
       }
     ]
   },
+  "music.mallfood.frostedflakes": {
+    "sounds": [
+	  {
+        "name": "music/mall/frostedflakes",
+        "stream": true
+      }
+    ]
+  },
   "music.prison.road": {
     "sounds": [
 	  {
@@ -705,6 +735,12 @@
     "replace": true,
     "sounds": [
       "fortress/bow"
+    ]
+  },
+  "entity.generic.explode": {
+    "sounds": [
+      "random/explode5",
+      "random/explode6"
     ]
   },
   "block.stone.step": {
