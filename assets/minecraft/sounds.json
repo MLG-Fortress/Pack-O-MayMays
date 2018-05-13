@@ -503,6 +503,14 @@
       }
     ]
   },
+  "music.mall.greenhiillzhop": {
+    "sounds": [
+	  {
+        "name": "music/mall/greenhiillzhop",
+        "stream": true
+      }
+    ]
+  },
   "music.mall.intro": {
     "sounds": [
 	  {
