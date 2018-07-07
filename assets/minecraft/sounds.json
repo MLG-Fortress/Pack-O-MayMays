@@ -299,6 +299,213 @@
       "fortress/lowshieldhitself"
     ]
   },
+  "entity.generic.splash": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+	  {
+        "name": "liquid/splash",
+        "volume": 8
+      },
+	  {
+        "name": "liquid/splash2",
+        "volume": 8
+      }
+    ]
+  },
+  "entity.player.splash": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "entity.generic.splash",
+        "volume": 8,
+		"type": "event"
+      }
+    ]
+  },
+  "entity.hostile.splash": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "entity.generic.splash",
+        "volume": 8,
+		"type": "event"
+      }
+    ]
+  },
+  "block.stone_pressureplate.click_on": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchon",
+		"volume": 8,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "block.stone_pressureplate.click_off": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchoff",
+		"volume": 8,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "block.stone_button.click_on": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchon",
+		"volume": 8,
+        "pitch": 2.7
+      }
+    ]
+  },
+  "block.stone_button.click_off": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchoff",
+		"volume": 8,
+        "pitch": 2.7
+      }
+    ]
+  },
+  "block.wood_pressureplate.click_on": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/woodswitchon",
+		"volume": 8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "block.wood_pressureplate.click_off": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/woodswitchoff",
+		"volume": 8,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "block.wood_button.click_on": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/woodswitchon",
+		"volume": 8,
+        "pitch": 3.0
+      }
+    ]
+  },
+  "block.wood_button.click_off": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/woodswitchoff",
+		"volume": 8,
+        "pitch": 3.0
+      }
+    ]
+  },
+  "block.comparator.click": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/woodswitchon",
+		"volume": 8,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "block.dispenser.fail": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchoff",
+		"volume": 8,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "block.dispenser.dispense": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchon",
+		"volume": 8,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "block.lever.click": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/woodswitchon",
+		"volume": 8,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "block.metal_pressureplate.click_on": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchon",
+		"volume": 8,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "block.metal_pressureplate.click_off": 
+  {
+    "replace": true,
+    "sounds": 
+    [
+      {
+        "name": "random/stoneswitchoff",
+		"volume": 8,
+        "pitch": 2.0
+      }
+    ]
+  },
   "entity.player.hurt": {
     "replace": true,
     "sounds": [
