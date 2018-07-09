@@ -56,34 +56,73 @@
     ]
   },
   "fortress.death": {
-    "category": "player",
     "sounds": [
 	  {
-        "name": "death/self/selfdeath",
+        "name": "death/death1",
         "stream": true
       },
 	  {
-        "name": "death/self/selfdeath2",
-        "stream": true
-      },
-	  {
-        "name": "death/self/selfdeath3",
-        "stream": true
-      },
-	  {
-        "name": "death/self/selfdeath4",
-        "stream": true
-      },
-	  {
-        "name": "death/self/selfdeath5",
-        "stream": true
-      },
-	  {
-        "name": "death/self/selfdeath6",
-        "stream": true
-      },
-      {
         "name": "death/death2",
+        "stream": true
+      },
+	  {
+        "name": "death/death3",
+        "stream": true
+      },
+	  {
+        "name": "death/death4",
+        "stream": true
+      },
+	  {
+        "name": "death/death5",
+        "stream": true
+      },
+	  {
+        "name": "death/death6",
+        "stream": true
+      },
+	  {
+        "name": "death/death8",
+        "stream": true
+      },
+	  {
+        "name": "death/death9",
+        "stream": true
+      },
+	  {
+        "name": "death/death15",
+        "stream": true
+      },
+	  {
+        "name": "death/bye",
+        "stream": true
+      },
+	  {
+        "name": "death/timewithdrawals",
+        "stream": true
+      },
+	  {
+        "name": "death/selfdeath",
+        "stream": true
+      },
+	  {
+        "name": "death/selfdeath2",
+        "stream": true
+      },
+	  {
+        "name": "death/selfdeath3",
+        "stream": true
+      },
+	  {
+        "name": "death/selfdeath4",
+        "stream": true
+      },
+	  {
+        "name": "death/selfdeath5",
+        "stream": true
+      },
+	  {
+        "name": "death/selfdeath6",
         "stream": true
       },
       {
@@ -91,95 +130,95 @@
         "stream": true
       },
       {
-        "name": "death/self/atnightithinkof",
+        "name": "death/atnightithinkof",
         "stream": true
       },
       {
-        "name": "death/self/bitcrusher",
+        "name": "death/bitcrusher",
         "stream": true
       },
       {
-        "name": "death/self/greendaydoesntlookbothways",
+        "name": "death/greendaydoesntlookbothways",
         "stream": true
       },
       {
-        "name": "death/self/ivebecomesonumb",
+        "name": "death/ivebecomesonumb",
         "stream": true
       },
       {
-        "name": "death/self/nickelheavy",
+        "name": "death/nickelheavy",
         "stream": true
       },
       {
-        "name": "death/self/robbiemadworld",
+        "name": "death/robbiemadworld",
         "stream": true
       },
       {
-        "name": "death/self/selfdeath7",
+        "name": "death/selfdeath7",
         "stream": true
       },
       {
-        "name": "death/self/whenyoudieinroblox",
+        "name": "death/whenyoudieinroblox",
         "stream": true
       },
       {
-        "name": "death/self/aaiiuueeoo",
+        "name": "death/aaiiuueeoo",
         "stream": true
       },
       {
-        "name": "death/self/allmyaxesliveintaxes",
+        "name": "death/allmyaxesliveintaxes",
         "stream": true
       },
       {
-        "name": "death/self/bigdumbideatheory",
+        "name": "death/bigdumbideatheory",
         "stream": true
       },
       {
-        "name": "death/self/crawlingxd",
+        "name": "death/crawlingxd",
         "stream": true
       },
       {
-        "name": "death/self/greenmario",
+        "name": "death/greenmario",
         "stream": true
       },
       {
-        "name": "death/self/improvedchickendance",
+        "name": "death/improvedchickendance",
         "stream": true
       },
       {
-        "name": "death/self/meetthe",
+        "name": "death/meetthe",
         "stream": true
       },
       {
-        "name": "death/self/nyarny",
+        "name": "death/nyarny",
         "stream": true
       },
       {
-        "name": "death/self/phoneboy",
+        "name": "death/phoneboy",
         "stream": true
       },
       {
-        "name": "death/self/theimperialcrawling",
+        "name": "death/theimperialcrawling",
         "stream": true
       },
       {
-        "name": "death/self/vaporwavebelike",
+        "name": "death/vaporwavebelike",
         "stream": true
       },
       {
-        "name": "death/self/victorysonic",
+        "name": "death/victorysonic",
         "stream": true
       },
       {
-        "name": "death/self/waluigisimportantmessage",
+        "name": "death/waluigisimportantmessage",
         "stream": true
       },
       {
-        "name": "death/self/whathuh",
+        "name": "death/whathuh",
         "stream": true
       },
       {
-        "name": "death/self/whatifrobbierottenwasasmashcharacter",
+        "name": "death/whatifrobbierottenwasasmashcharacter",
         "stream": true
       }
     ]
@@ -926,18 +965,11 @@
     "category": "player",
     "replace": true,
     "sounds": [
-      "death/death1",
-      "death/death2",
-      "death/death3",
-	  "death/death4",
-	  "death/death5",
-	  "death/death6",
-	  "death/death8",
-	  "death/anendingshortversion",
-	  "death/timewithdrawals",
-	  "death/bye",
-	  "death/death9",
-	  "death/death15"
+      {
+        "name": "fortress.death",
+        "stream": false,
+		"type": "event"
+      }
     ]
   },
   "entity.arrow.shoot": {
