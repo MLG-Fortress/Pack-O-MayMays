@@ -49,12 +49,6 @@
       "fortress/fusrodah"
     ]
   },
-  "fortress.cave": {
-    "sounds": [
-      "fortress/cave1",
-      "fortress/cave2"
-    ]
-  },
   "fortress.death": {
     "sounds": [
 	  {
@@ -224,7 +218,6 @@
     ]
   },
   "fortress.transporter": {
-    "category": "player",
     "sounds": [
       "fortress/transporter2",
       "fortress/transporter3",
@@ -653,14 +646,6 @@
       }
     ]
   },
-  "music.mall.elevatorjam": {
-    "sounds": [
-	  {
-        "name": "music/mall/elevatorjam",
-        "stream": true
-      }
-    ]
-  },
   "music.mall.hhstar": {
     "sounds": [
 	  {
@@ -669,26 +654,10 @@
       }
     ]
   },
-  "music.mall.killingmiisoftly": {
-    "sounds": [
-	  {
-        "name": "music/mall/killingmiisoftly",
-        "stream": true
-      }
-    ]
-  },
   "music.mall.miichannel": {
     "sounds": [
 	  {
         "name": "music/mall/miichannel",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.litdog": {
-    "sounds": [
-	  {
-        "name": "music/mall/litdog",
         "stream": true
       }
     ]
@@ -720,7 +689,7 @@
   "music.mall.despitowiishop": {
     "sounds": [
 	  {
-        "name": "music/mall/beautifulmiis",
+        "name": "music/mall/despitowiishop",
         "stream": true
       }
     ]
@@ -737,14 +706,6 @@
     "sounds": [
 	  {
         "name": "music/mall/whosthatdeadhomeappliance",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.splatoonbooyahbaseshopping": {
-    "sounds": [
-	  {
-        "name": "music/mall/splatoonbooyahbaseshopping",
         "stream": true
       }
     ]
@@ -780,19 +741,7 @@
         "stream": true
       },
       {
-        "name": "music/mall/alliwannado",
-        "stream": true
-      },
-      {
-        "name": "music/mall/merrybirthday",
-        "stream": true
-      },
-      {
         "name": "music/mall/animallobby",
-        "stream": true
-      },
-      {
-        "name": "music/mall/buysomething",
         "stream": true
       },
       {
@@ -809,14 +758,6 @@
       }
     ]
   },
-  "music.mall.rare1976": {
-    "sounds": [
-	  {
-        "name": "music/mall/rare1976",
-        "stream": true
-      }
-    ]
-  },
   "music.mallfood.smokeoddity": {
     "sounds": [
 	  {
@@ -829,14 +770,6 @@
     "sounds": [
 	  {
         "name": "music/mall/brokensmokes",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.totinos": {
-    "sounds": [
-	  {
-        "name": "music/mall/totinos",
         "stream": true
       }
     ]
@@ -861,22 +794,6 @@
     "sounds": [
 	  {
         "name": "music/mall/noodlescantbebeat2",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.noodlescantbebeat3": {
-    "sounds": [
-	  {
-        "name": "music/mall/noodlescantbebeat3",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.startrekpausecafe": {
-    "sounds": [
-	  {
-        "name": "music/mall/startrekpausecafe",
         "stream": true
       }
     ]
