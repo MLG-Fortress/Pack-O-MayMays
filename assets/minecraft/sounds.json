@@ -52,6 +52,34 @@
   "fortress.death": {
     "sounds": [
 	  {
+        "name": "death/wree",
+        "stream": true
+      },
+      {
+        "name": "death/shutdown",
+        "stream": true
+      },
+      {
+        "name": "death/penpineapplesubgamelose",
+        "stream": true
+      },
+      {
+        "name": "death/onlytimeme3",
+        "stream": true
+      },
+      {
+        "name": "death/onlytimeme2",
+        "stream": true
+      },
+      {
+        "name": "death/onlytimeme",
+        "stream": true
+      },
+      {
+        "name": "death/leftfordeathspacito",
+        "stream": true
+      },
+      {
         "name": "death/death1",
         "stream": true
       },
@@ -61,14 +89,6 @@
       },
 	  {
         "name": "death/death3",
-        "stream": true
-      },
-	  {
-        "name": "death/death4",
-        "stream": true
-      },
-	  {
-        "name": "death/death5",
         "stream": true
       },
 	  {
@@ -92,10 +112,6 @@
         "stream": true
       },
 	  {
-        "name": "death/timewithdrawals",
-        "stream": true
-      },
-	  {
         "name": "death/selfdeath",
         "stream": true
       },
@@ -111,20 +127,8 @@
         "name": "death/selfdeath4",
         "stream": true
       },
-	  {
-        "name": "death/selfdeath5",
-        "stream": true
-      },
-	  {
-        "name": "death/selfdeath6",
-        "stream": true
-      },
       {
-        "name": "music/mall/bigsmokegetshurt",
-        "stream": true
-      },
-      {
-        "name": "death/atnightithinkof",
+        "name": "death/bigsmokegetshurt",
         "stream": true
       },
       {
@@ -152,22 +156,6 @@
         "stream": true
       },
       {
-        "name": "death/whenyoudieinroblox",
-        "stream": true
-      },
-      {
-        "name": "death/aaiiuueeoo",
-        "stream": true
-      },
-      {
-        "name": "death/allmyaxesliveintaxes",
-        "stream": true
-      },
-      {
-        "name": "death/bigdumbideatheory",
-        "stream": true
-      },
-      {
         "name": "death/crawlingxd",
         "stream": true
       },
@@ -180,14 +168,6 @@
         "stream": true
       },
       {
-        "name": "death/meetthe",
-        "stream": true
-      },
-      {
-        "name": "death/nyarny",
-        "stream": true
-      },
-      {
         "name": "death/phoneboy",
         "stream": true
       },
@@ -196,23 +176,11 @@
         "stream": true
       },
       {
-        "name": "death/vaporwavebelike",
-        "stream": true
-      },
-      {
-        "name": "death/victorysonic",
-        "stream": true
-      },
-      {
         "name": "death/waluigisimportantmessage",
         "stream": true
       },
       {
         "name": "death/whathuh",
-        "stream": true
-      },
-      {
-        "name": "death/whatifrobbierottenwasasmashcharacter",
         "stream": true
       }
     ]
