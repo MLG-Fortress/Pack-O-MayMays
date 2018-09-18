@@ -614,18 +614,18 @@
       }
     ]
   },
-  "music.mall.hhstar": {
+  "music.mall.alex-aufderheide": {
     "sounds": [
 	  {
-        "name": "music/mall/hhstar",
+        "name": "music/mall/alex-aufderheide",
         "stream": true
       }
     ]
   },
-  "music.mall.miichannel": {
+  "music.mall.beautifulshopchannel": {
     "sounds": [
 	  {
-        "name": "music/mall/miichannel",
+        "name": "music/mall/beautifulshopchannel",
         "stream": true
       }
     ]
@@ -638,18 +638,18 @@
       }
     ]
   },
-  "music.mall.nyanjazz": {
+  "music.mall.dsiishopchannel": {
     "sounds": [
 	  {
-        "name": "music/mall/nyanjazz",
+        "name": "music/mall/dsiishopchannel",
         "stream": true
       }
     ]
   },
-  "music.mall.beautifulmiis": {
+  "music.mall.elevatorjambutitspumpedupkicks": {
     "sounds": [
 	  {
-        "name": "music/mall/beautifulmiis",
+        "name": "music/mall/elevatorjambutitspumpedupkicks",
         "stream": true
       }
     ]
@@ -658,134 +658,6 @@
     "sounds": [
 	  {
         "name": "music/mall/despitowiishop",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.teeosupdate": {
-    "sounds": [
-	  {
-        "name": "music/mall/teeosupdate",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.whosthatdeadhomeappliance": {
-    "sounds": [
-	  {
-        "name": "music/mall/whosthatdeadhomeappliance",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.greenhiillzhop": {
-    "sounds": [
-	  {
-        "name": "music/mall/greenhiillzhop",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.intro": {
-    "sounds": [
-	  {
-        "name": "music/mall/sale",
-        "stream": true
-      },
-      {
-        "name": "music/mall/hardwaresupersonicspeed",
-        "stream": true
-      },
-      {
-        "name": "music/mall/combonumber5",
-        "stream": true
-      },
-      {
-        "name": "music/mall/beattakeshi",
-        "stream": true
-      },
-      {
-        "name": "music/mall/skrillevator",
-        "stream": true
-      },
-      {
-        "name": "music/mall/animallobby",
-        "stream": true
-      },
-      {
-        "name": "music/mall/soldierboy",
-        "stream": true
-      }
-    ]
-  },
-  "music.mall.wiibopchannel": {
-    "sounds": [
-	  {
-        "name": "music/mall/wiibopchannel",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.smokeoddity": {
-    "sounds": [
-	  {
-        "name": "music/mall/smokeoddity",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.brokensmokes": {
-    "sounds": [
-	  {
-        "name": "music/mall/brokensmokes",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.krabbypower": {
-    "sounds": [
-	  {
-        "name": "music/mall/krabbypower",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.noodlescantbebeat": {
-    "sounds": [
-	  {
-        "name": "music/mall/noodlescantbebeat",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.noodlescantbebeat2": {
-    "sounds": [
-	  {
-        "name": "music/mall/noodlescantbebeat2",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.steamedhamsbutallstar": {
-    "sounds": [
-	  {
-        "name": "music/mall/steamedhamsbutallstar",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.portacorobinson": {
-    "sounds": [
-	  {
-        "name": "music/mall/portacorobinson",
-        "stream": true
-      }
-    ]
-  },
-  "music.mallfood.frostedflakes": {
-    "sounds": [
-	  {
-        "name": "music/mall/frostedflakes",
         "stream": true
       }
     ]
