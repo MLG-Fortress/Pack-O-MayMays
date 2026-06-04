@@ -142,7 +142,7 @@
   },
   "fortress.classic_hurt": {
     "sounds": [
-      "random/classic_hurt"
+      "fortress/classic_hurt"
     ]
   },
   "fortress.shieldhitself": {
