@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 84,
+    "pack_format": 87,
+    "supported_formats": {
+      "min_inclusive": 4,
+      "max_inclusive": 87
+    },
     "description": "Kampel125's Dank Pack (modified for mlg.robomwm.com)"
   }
 }
